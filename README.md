@@ -1,8 +1,8 @@
-Clawstep - Dragonborn female body
+ZYX - FleshForge - Body Selector - Plantigrade
 
-[ModIO](https://mod.io/g/baldursgate3/m/dragonborn-body-replacer-dragonborn-cc#description)
-[Nexus](https://www.nexusmods.com/baldursgate3/mods/16384?tab=description)
+[ModIO](https://mod.io/g/baldursgate3/m/fleshforge-dragonborn-cc-body-selector-vanilla#description)
+[Nexus]()
 
-DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a
+DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4
 
 BG3_DATA="E:/El/Games/Steam/steamapps/common/Baldurs Gate 3/Data"
