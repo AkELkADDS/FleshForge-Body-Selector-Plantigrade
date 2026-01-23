@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4 
-   Fri 01/23/2026 18:52:47.64 
+   Fri 01/23/2026 23:40:02.86 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -297,7 +297,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Friday, January 23, 2026 6:52:51 PM
+  Started : Friday, January 23, 2026 11:40:06 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\Projects\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\
 
@@ -308,7 +308,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     710	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\meta.lsx100%  
-	    New File  		   1.5 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\thumbnail.png 46%  100%  
+	    New File  		   1.5 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\thumbnail.png 31%  100%  
 
 ------------------------------------------------------------------------------
 
@@ -319,9 +319,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           1675258000 Bytes/sec.
-   Speed :            95859.031 MegaBytes/min.
-   Ended : Friday, January 23, 2026 6:52:51 PM
+   Speed :           186139777 Bytes/sec.
+   Speed :           10651.003 MegaBytes/min.
+   Ended : Friday, January 23, 2026 11:40:06 PM
 
  
 [DEBUG] Counting source files 
@@ -347,7 +347,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Friday, January 23, 2026 6:52:52 PM
+  Started : Friday, January 23, 2026 11:40:07 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\Editor\Mods\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\
 
@@ -369,9 +369,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           328619000 Bytes/sec.
-   Speed :           18803.730 MegaBytes/min.
-   Ended : Friday, January 23, 2026 6:52:52 PM
+   Speed :            36513222 Bytes/sec.
+   Speed :            2089.303 MegaBytes/min.
+   Ended : Friday, January 23, 2026 11:40:07 PM
 
  
 [DEBUG] Counting source files 
@@ -397,7 +397,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Friday, January 23, 2026 6:52:54 PM
+  Started : Friday, January 23, 2026 11:40:09 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\Mods\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\
 
@@ -408,7 +408,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		   12664	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\meta.lsx100%  
-	    New File  		   1.5 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\mod_publish_logo.png 93%  100%  
+	    New File  		   1.5 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\mod_publish_logo.png 31%  100%  
 	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\GUI\metadata.lsf100%  
 	    New File  		   31331	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\Localization\English\english.xml100%  
 
@@ -419,11 +419,7 @@ SECTION 2: COPY OPERATIONS
    Files :         4         4         0         0         0         0
    Bytes :    1.64 m    1.64 m         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-
-
-   Speed :           859842000 Bytes/sec.
-   Speed :           49200.553 MegaBytes/min.
-   Ended : Friday, January 23, 2026 6:52:54 PM
+   Ended : Friday, January 23, 2026 11:40:09 PM
 
  
 [DEBUG] Counting source files 
@@ -449,7 +445,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Friday, January 23, 2026 6:52:56 PM
+  Started : Friday, January 23, 2026 11:40:10 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\Public\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\
 
@@ -596,10 +592,6 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    1660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\Content\[PAK]_DGB_Body_AkELkA_Extra_A\fed90923-f141-b3cb-3ee1-b8c3caf0d8c1.lsf100%  
 	    New File  		    3482	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\Content\[PAK]_DGB_Body_AkELkA_Extra_A\ff04fbab-2290-4632-b3c2-3c6cb9531301.lsf100%  
 	    New File  		  349680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\Assets\Textures\Icons\DGB_VNL_BodySelector_A_Atlas.dds100%  
-	    New File  		  236016	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body_Decor\DGB_F_NKD_Body_Karlach_A_MetalParts_EL_2_Vanilla.GR2100%  
-	    New File  		     254	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body_Decor\DGB_F_NKD_Body_Karlach_A_MetalParts_EL_2_Vanilla.xml100%  
-	    New File  		  236284	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body_Decor\DGB_M_NKD_Body_Karlach_A_MetalParts_EL_2_Vanilla.GR2100%  
-	    New File  		     254	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body_Decor\DGB_M_NKD_Body_Karlach_A_MetalParts_EL_2_Vanilla.xml100%  
 	    New File  		   32348	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_0_Empty_Vanilla.GR2100%  
 	    New File  		     235	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_0_Empty_Vanilla.xml100%  
 	    New File  		  497888	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_1_Clawstep_ORI_TabOpener_Vanilla.GR2100%  
@@ -617,8 +609,12 @@ SECTION 2: COPY OPERATIONS
 	    New File  		  495384	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_1_VNL_ORI_TabOpener.GR2100%  
 	    New File  		     229	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_1_VNL_ORI_TabOpener.xml100%  
 	    New File  		  500004	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_LegSep.GR2100%  
+	    New File  		  236016	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body_Decor\DGB_F_NKD_Body_Karlach_A_MetalParts_EL_2_Vanilla.GR2100%  
 	    New File  		     236	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_LegSep.xml100%  
 	    New File  		  495384	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Vanilla.GR2100%  
+	    New File  		     254	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body_Decor\DGB_F_NKD_Body_Karlach_A_MetalParts_EL_2_Vanilla.xml100%  
+	    New File  		  236284	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body_Decor\DGB_M_NKD_Body_Karlach_A_MetalParts_EL_2_Vanilla.GR2100%  
+	    New File  		     254	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body_Decor\DGB_M_NKD_Body_Karlach_A_MetalParts_EL_2_Vanilla.xml100%  
 	    New File  		     242	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Vanilla.xml100%  
 	    New File  		   42452	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\SpineDecor\DGB_F_NKD_Body_A_SpineDecor_EL_2_A.GR2100%  
 	    New File  		     248	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\SpineDecor\DGB_F_NKD_Body_A_SpineDecor_EL_2_A.xml100%  
@@ -644,9 +640,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           178765027 Bytes/sec.
-   Speed :           10229.016 MegaBytes/min.
-   Ended : Friday, January 23, 2026 6:52:56 PM
+   Speed :           189280617 Bytes/sec.
+   Speed :           10830.723 MegaBytes/min.
+   Ended : Friday, January 23, 2026 11:40:10 PM
 
  
 [DEBUG] Counting source files 
@@ -672,7 +668,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Friday, January 23, 2026 6:52:57 PM
+  Started : Friday, January 23, 2026 11:40:12 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\Generated\Public\DGB_Body_AkELkA_Extra_A_Vanilla_e572f87e-be03-4e97-b460-12cf46630db4\
 
@@ -754,9 +750,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           4768950666 Bytes/sec.
-   Speed :           272881.546 MegaBytes/min.
-   Ended : Friday, January 23, 2026 6:52:57 PM
+   Speed :           5800075135 Bytes/sec.
+   Speed :           331882.961 MegaBytes/min.
+   Ended : Friday, January 23, 2026 11:40:12 PM
 
  
 [DEBUG] Counting source files 
