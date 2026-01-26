@@ -102,6 +102,13 @@
                     <attribute id="V1" type="float" value="0.75097656"/>
                     <attribute id="V2" type="float" value="0.99902344"/>
                 </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_BodySelector_NPC_0_button"/>
+                    <attribute id="U1" type="float" value="0.50097656"/>
+                    <attribute id="U2" type="float" value="0.74902344"/>
+                    <attribute id="V1" type="float" value="0.75097656"/>
+                    <attribute id="V2" type="float" value="0.99902344"/>
+                </node>
             </children>
         </node>
     </region>
